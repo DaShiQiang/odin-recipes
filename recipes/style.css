@@ -1,0 +1,21 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+  background-color: hsl(98, 15%, 43%);
+  color: hsl(0, 90%, 32%);
+}
+
+img {
+height: auto;
+width: 300px;
+align-items: center;
+}
+
+.header {
+  text-align: center;
+  font-size: 3em;
+  font-family: ;
+}
+
+.margin {
+  margin-bottom: 40px;
+}
